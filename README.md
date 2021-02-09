@@ -85,7 +85,7 @@
       granted to You under this License for that Work shall terminate
       as of the date such litigation is filed.
 
-   4. Redistribution. You may NOT reproduce, you may distribute copies of the
+   4. Distribution. You may NOT reproduce, you may distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
       meet the following conditions:
