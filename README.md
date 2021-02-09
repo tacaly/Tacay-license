@@ -2,7 +2,7 @@
                            Version 1.0, January 2021
                         http://www.tacaly.com/license
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   TERMS AND CONDITIONS FOR USE, PRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
