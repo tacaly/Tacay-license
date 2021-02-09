@@ -1,5 +1,3 @@
-# Tacay-license
-
                                 Tacaly License
                            Version 1.0, January 2021
                         http://www.tacaly.com/license
